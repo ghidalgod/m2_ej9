@@ -1,0 +1,11 @@
+#text1 { 
+    cursor: pointer;
+}
+.caja1 #text2{
+    background-color:#ca31fb;
+    display: none;
+}
+
+#caja3.big{
+    font-size: 50px;
+}
